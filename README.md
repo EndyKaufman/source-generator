@@ -1,6 +1,8 @@
 srcgen
 =========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/EndyKaufman/srcgen.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/EndyKaufman/srcgen.svg?branch=master)](https://travis-ci.org/EndyKaufman/srcgen)
 
 Generate any source for any language and any frameworks from templates with Node JS

@@ -35,13 +35,13 @@
   "dependencies": {
     "chalk": "^2.1.0",
     "cheerio": "^1.0.0-rc.2",
-    "circular-json": "^0.3.3",
+    "circular-json": "^0.4.0",
     "clear": "0.0.1",
     "commander": "^2.11.0",
     "figlet": "^1.2.0",
     "fs-extra": "^4.0.1",
     "handlebars": "^4.0.10",
-    "inquirer": "^3.2.3",
+    "inquirer": "^4.0.0",
     "lodash": "^4.17.4",
     "mkdirp": "^0.5.1",
     "object-path": "^0.11.4",
@@ -50,6 +50,6 @@
   },
   "devDependencies": {
     "chai": "^4.1.2",
-    "mocha": "^3.5.0"
+    "mocha": "^4.0.1"
   }
 }
